@@ -27,7 +27,6 @@
 
 > A shell made using C
 
-<br>
 </details>
 
 <details>
