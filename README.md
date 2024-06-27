@@ -5,14 +5,15 @@
 
 > A Python script that converts web pages of alx school projects into formatted README files for easier documentation.
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <!-- <details>
-<summary><b><a href=""> </a></b></summary><br>
+<summary><b><a href=""> </a></b></summary>
 
+> 
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details> -->
 
 <!-- ==================================================================== -->
@@ -22,16 +23,18 @@
 <br>
 
 <!-- <details>
-<summary><b><a href=""> </a></b></summary><br>
+<summary><b><a href=""> </a></b></summary>
 
+> 
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details> -->
 
 <!-- <details>
-<summary><b><a href=""> </a></b></summary><br>
+<summary><b><a href=""> </a></b></summary>
 
+> 
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details> -->
 
