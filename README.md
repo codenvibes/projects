@@ -8,12 +8,12 @@ A Python script that converts web pages of alx school projects into formatted RE
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<details>
+<!-- <details>
 <summary><b><a href=""> </a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+</details> -->
 
 <!-- ==================================================================== -->
 
@@ -21,17 +21,17 @@ A Python script that converts web pages of alx school projects into formatted RE
 <p align="center">※※※※※※※※※※※※</p>
 <br>
 
-<details>
+<!-- <details>
 <summary><b><a href=""> </a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><b><a href=""> </a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+</details> -->
 
