@@ -22,13 +22,21 @@
 <p align="center">※※※※※※※※※※※※</p>
 <br>
 
-<!-- <details>
-<summary><b><a href=""> </a></b></summary>
+<details>
+<summary><b><a href="https://github.com/codenvibes/simple_shell">simple_shell</a></b></summary>
 
-> 
+> A shell made using C
 
 <br>
-</details> -->
+</details>
+
+<details>
+<summary><b><a href="">printf </a></b></summary>
+
+> Recreating the printf function
+
+<br>
+</details>
 
 <!-- <details>
 <summary><b><a href=""> </a></b></summary>
