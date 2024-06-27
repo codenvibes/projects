@@ -5,7 +5,6 @@
 
 > A Python script that converts web pages of alx school projects into formatted README files for easier documentation.
 
-<br>
 </details>
 
 <!-- <details>
@@ -13,7 +12,6 @@
 
 > 
 
-<br>
 </details> -->
 
 <!-- ==================================================================== -->
@@ -34,7 +32,6 @@
 
 > Recreating the printf function
 
-<br>
 </details>
 
 <!-- <details>
@@ -42,6 +39,5 @@
 
 > 
 
-<br>
 </details> -->
 
